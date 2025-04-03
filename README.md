@@ -4,7 +4,7 @@ Features in-game input display, lap time tracking and every course available to 
 
 ## How to patch
 
-- Apply the .ips patch to your vanilla Speedy Gonzales: Los Gatos Bandidos (U, v1.1) ROM with the included Lunar IPS program. 
+- Apply the .ips patch to your vanilla F-Zero (US 1.0) ROM with the included Lunar IPS program. 
 - Enjoy.
 
 ## Known Issues
