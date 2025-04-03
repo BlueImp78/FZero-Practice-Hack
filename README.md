@@ -1,5 +1,6 @@
 # FZero-Practice-Hack
-A practice romhack for F-Zero
+A practice romhack for F-Zero. 
+
 Features in-game input display, lap time tracking and every course available to play in Practice Mode.
 
 ## How to patch
