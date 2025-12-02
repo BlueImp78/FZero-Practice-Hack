@@ -12,6 +12,7 @@ Features in-game input display, lap time tracking and every course available to 
 
 - Some text that appears onscreen can be partially cut off.
 - Using the refiller can glitch out the input display (Will fix itself upon leaving the refiller area)
+- Grand Prix mode may have more slowdown than usual due to the extra sprites onscreen.
 
 ## Special Thanks
 
